@@ -1,0 +1,7 @@
+{
+  "name": "AppWeb",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
